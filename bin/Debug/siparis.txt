@@ -1,0 +1,13 @@
+System.Windows.Forms.ListBox+ObjectCollectionMASA 1 - Ürünler:  - Toplam: TOPLAM: 0TL TL
+MASA 2 - Ürünler:  - Toplam: TOPLAM: 0TL TL
+MASA 2 - Ürünler:  - Toplam: TOPLAM: 0TL
+MASA 2 - Ürünler: Şiş Kebap185TL - Fiyat: 185TL
+ - Ürünler:  - Toplam: TOPLAM: 0TL TL
+MASA 2 - Ürünler:  - Toplam: 0
+MASA 2 - Ürünler:  - Fiyat: 0
+MASA 6 - Ürünler: Dürüm90TL, Ayran35TL - Fiyat: 125TL
+ - Ürünler:  - Toplam: TOPLAM: 0TL TL
+MASA 6 - Ürünler:  - Toplam: 0
+MASA 5 - Ürünler: Şiş Kebap185TL, Dürüm90TL - Fiyat: 275TL
+ - Ürünler:  - Toplam: TOPLAM: 0TL TL
+MASA 5 - Ürünler:  - Toplam: 0
